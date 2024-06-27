@@ -1,4 +1,5 @@
 # Lifetime-Amsi-EtwPatch
+<a href="https://t.me/pulzetools"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
 
 This Go program applies a lifetime patch to PowerShell to disable ETW (Event Tracing for Windows) and AMSI (Antimalware Scan Interface) protections.
 
